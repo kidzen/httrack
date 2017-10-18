@@ -1,0 +1,34 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 28 Dec 2016 19:23:15 at http://sisken-mpsp.mpsp.gov.my/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3BaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://sisken-mpsp.mpsp.gov.my/ -O1 "C:\wamp64\www\httrack\sisken\sisken" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:28:23	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/index.html (from sisken-mpsp.mpsp.gov.my/)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/img/photo.jpg (from sisken-mpsp.mpsp.gov.my/Content/DevSpikeStyle?v=d95YRyf0Ef2O8fz9uIZy9msxE_83nGwBqIIi7zt0H0E1)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_inset-hard_100_fcfdfd_1x100.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_gloss-wave_75_2191c0_500x100.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_glass_45_0078ae_1x400.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_glass_75_79c9ec_1x400.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_gloss-wave_50_6eac2c_500x100.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_glass_55_f8da4e_1x400.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_gloss-wave_45_e14f1c_500x100.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-icons_0078ae_256x240.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-icons_d8e7f3_256x240.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-icons_e0fdff_256x240.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-icons_056b93_256x240.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-icons_f5e175_256x240.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-icons_f7a50d_256x240.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-icons_fcd113_256x240.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_flat_75_aaaaaa_40x100.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/Content/images/ui-bg_flat_55_999999_40x100.png (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/fonts/glyphicons-halflings-regular.woff2 (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:30	Error: 	"Not Found" (404) at link sisken-mpsp.mpsp.gov.my/fonts/glyphicons-halflings-regular.woff (from sisken-mpsp.mpsp.gov.my/Content/bootstrap?v=HGlVZMSY80CRf54U0waMf7n_VMfT7CHFBTctLdfeVH81)
+19:28:31	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://maxcdn.bootstrapcdn.com/robots.txt (from https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css)
+19:28:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0 (from https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css)
+19:28:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0 (from https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 17 seconds : 45 links scanned, 21 files written (8443043 bytes overall) [8158959 bytes received at 25738 bytes/sec], 676768 bytes transferred using HTTP compression in 5 files, ratio 52%, 1.0 requests per connection
+(21 errors, 2 warnings, 0 messages)

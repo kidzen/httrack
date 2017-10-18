@@ -1,0 +1,16 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 28 Dec 2016 19:48:26 at http://sisken-mpsp.mpsp.gov.my/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3BaK0H0%kf2A25000%f0#f -F "HTTrack Website Copier/3.0x (offline browser; web mirror utility)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P 70202:Kamal-41@: http://sisken-mpsp.mpsp.gov.my/ -O1 "C:\wamp64\www\httrack\sisken\sisken3" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:48:26	Warning: 	Cache: damaged cache, trying to repair
+19:48:26	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+19:48:26	Warning: 	Cache: error trying to open the cache
+19:48:26	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link sisken-mpsp.mpsp.gov.my/robots.txt (from primary/primary)
+19:48:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link sisken-mpsp.mpsp.gov.my/ (from primary/primary)
+19:48:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link sisken-mpsp.mpsp.gov.my/ (from primary/primary)
+19:48:26	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link sisken-mpsp.mpsp.gov.my/ (from primary/primary)
+19:48:26	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

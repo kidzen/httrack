@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:42:59	13289/13289	---M--	500	error ('Internal%20Server%20Error')	text/html	date:Wed,%2028%20Dec%202016%2011:42:59%20GMT	http://sisken-mpsp.mpsp.gov.my/Dashboard/DashboardAdmin	C:/wamp64/www/httrack/sisken/sisken2/sisken-mpsp.mpsp.gov.my/Dashboard/DashboardAdmin.0.delayed	(from )
+19:42:59	1245/1245	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2028%20Dec%202016%2011:42:59%20GMT	http://sisken-mpsp.mpsp.gov.my/robots.txt		(from )
+19:42:59	0/-1	---M--	500	error ('')			http://sisken-mpsp.mpsp.gov.my/Dashboard/DashboardAdmin	C:/wamp64/www/httrack/sisken/sisken2/sisken-mpsp.mpsp.gov.my/Dashboard/DashboardAdmin.html	(from )
+19:42:59	0/-1	---M--	500	error ('')			http://sisken-mpsp.mpsp.gov.my/Dashboard/DashboardAdmin	C:/wamp64/www/httrack/sisken/sisken2/sisken-mpsp.mpsp.gov.my/Dashboard/DashboardAdmin.html	(from )
